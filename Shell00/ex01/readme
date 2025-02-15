@@ -1,0 +1,2 @@
+The file needs to be exactly like the given example, the permissions and the date. To change permission we can use the command "chmod" (check on the internet about the permission numbers and what they mean). To change the date (timestamp) we can use the command "touch -a -m -t" and write 'year/month/day/hour.00'. The "40" in the example mean the size of the file (how many characters are inside), to change this one we can use the command "truncate -s 'size' 'filename'".
+

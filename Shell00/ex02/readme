@@ -1,0 +1,1 @@
+This one is pretty much the same as the previous one. Plus we need to add a symbolic link between test 3 and 5 with the command "ln test 3 test 5", and a hard link between test 0 and test 6 with the command "ln -s test 0 test 6".
